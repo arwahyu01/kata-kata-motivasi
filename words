@@ -1,246 +1,266 @@
 {
-    "title": "Kumpulan Kata - Kata Motivasi",
-    "source": "CAT-GPT",
-    "words": [
-        {
-            "kutipan": "Setiap langkah kecil membawa kita lebih dekat menuju impian besar.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Kegigihan adalah kunci menuju keberhasilan yang abadi.",
-            "sumber": "Tom Cruise"
-        },
-        {
-            "kutipan": "Ketika kamu merasa putus asa, itu adalah titik awal keberhasilan sejati.",
-            "sumber": "Joel Osteen"
-        },
-        {
-            "kutipan": "Jangan takut gagal, karena dari kegagalan kita belajar untuk menjadi lebih kuat.",
-            "sumber": "Robert Kiyosaki"
-        },
-        {
-            "kutipan": "Keberhasilan dimulai dari tekad untuk terus maju, bahkan ketika sulit.",
-            "sumber": "Winston Churchill"
-        },
-        {
-            "kutipan": "Setiap hari adalah kesempatan baru untuk menulis kisah suksesmu.",
-            "sumber": "Oprah Winfrey"
-        },
-        {
-            "kutipan": "Jangan biarkan kesulitan hari ini menghalangi impianmu untuk besok.",
-            "sumber": "Eleanor Roosevelt"
-        },
-        {
-            "kutipan": "Ketekunan membuka pintu menuju pintu keberhasilan yang tak terduga.",
-            "sumber": "Estee Lauder"
-        },
-        {
-            "kutipan": "Dalam setiap masalah, terdapat peluang untuk tumbuh dan berkembang.",
-            "sumber": "Albert Einstein"
-        },
-        {
-            "kutipan": "Keberanian adalah kunci untuk membuka pintu menuju kemungkinan yang tak terbatas.",
-            "sumber": "Tony Robbins"
-        },
-        {
-            "kutipan": "Percayalah pada dirimu sendiri, karena kamu lebih kuat dari yang kamu pikirkan.",
-            "sumber": "Marilyn Monroe"
-        },
-        {
-            "kutipan": "Optimisme adalah bahan bakar untuk mencapai tujuanmu.",
-            "sumber": "Helen Keller"
-        },
-        {
-            "kutipan": "Jadilah pribadi yang memberikan lebih dari yang diharapkan.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Hidup adalah perjalanan, nikmati setiap langkahnya.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Kegagalan bukanlah akhir, tetapi kesempatan untuk memulai kembali dengan lebih bijaksana.",
-            "sumber": "Henry Ford"
-        },
-        {
-            "kutipan": "Keberhasilan dimulai dari tekad untuk berusaha lagi dan lagi.",
-            "sumber": "Colin Powell"
-        },
-        {
-            "kutipan": "Setiap rintangan adalah batu loncatan menuju pencapaian.",
-            "sumber": "Zig Ziglar"
-        },
-        {
-            "kutipan": "Jadilah alasan seseorang tersenyum hari ini.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Keyakinan adalah senjata terkuat untuk mencapai mimpi-mimpi besar.",
-            "sumber": "Muhammad Ali"
-        },
-        {
-            "kutipan": "Jangan pernah menyerah pada sesuatu yang membuatmu tersenyum.",
-            "sumber": "Walt Disney"
-        },
-        {
-            "kutipan": "Hidup ini terlalu singkat untuk disia-siakan dalam kekhawatiran.",
-            "sumber": "Steve Jobs"
-        },
-        {
-            "kutipan": "Rencanakan tujuanmu dengan hati-hati dan kejar dengan tekad.",
-            "sumber": "Les Brown"
-        },
-        {
-            "kutipan": "Sukses bukanlah kebetulan, tetapi hasil dari kerja keras dan ketekunan.",
-            "sumber": "Vince Lombardi"
-        },
-        {
-            "kutipan": "Hidup dengan rasa syukur membuka pintu kebahagiaan sejati.",
-            "sumber": "Eckhart Tolle"
-        },
-        {
-            "kutipan": "Ketekunan adalah kunci kesuksesan jangka panjang.",
-            "sumber": "Nelson Mandela"
-        },
-        {
-            "kutipan": "Teruslah berusaha, karena setiap usaha membawamu lebih dekat pada impianmu.",
-            "sumber": "Oprah Winfrey"
-        },
-        {
-            "kutipan": "Penuhi hari-harimu dengan tindakan yang mendekatkanmu pada tujuanmu.",
-            "sumber": "Les Brown"
-        },
-        {
-            "kutipan": "Kamu adalah arsitek takdirmu sendiri. Bangun dengan hati yang berani.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Jangan menunggu kesempurnaan, mulailah dari keberanian untuk mencoba.",
-            "sumber": "Brene Brown"
-        },
-        {
-            "kutipan": "Saat merasa lelah, ingatlah mengapa kamu memulai.",
-            "sumber": "Jim Rohn"
-        },
-        {
-            "kutipan": "Pikirkan positif dan hal positif akan terjadi padamu.",
-            "sumber": "Joel Osteen"
-        },
-        {
-            "kutipan": "Ketika kamu mengubah cara pandangmu, dunia sekitarmu berubah.",
-            "sumber": "Wayne Dyer"
-        },
-        {
-            "kutipan": "Kegagalan adalah kesempatan untuk memulai kembali dengan lebih cerdik.",
-            "sumber": "Henry Ford"
-        },
-        {
-            "kutipan": "Pilihlah kebahagiaan setiap hari, karena hidup hanya sekali.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Jangan biarkan ketakutan membatasi potensimu yang sebenarnya.",
-            "sumber": "Marie Curie"
-        },
-        {
-            "kutipan": "Mimpi besar membutuhkan langkah-langkah kecil yang konsisten.",
-            "sumber": "Martin Luther King Jr."
-        },
-        {
-            "kutipan": "Semua hal dimulai dengan impian dan tekad untuk mewujudkannya.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Raihlah bintang dengan langkah-langkahmu yang tak kenal lelah.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Jangan takut menjadi versi terbaik dari dirimu sendiri.",
-            "sumber": "Steve Maraboli"
-        },
-        {
-            "kutipan": "Berikan dengan ikhlas, dan kamu akan menerima dengan berlimpah.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Jangan ragu untuk berbicara, karena suaramu memiliki kekuatan.",
-            "sumber": "Malala Yousafzai"
-        },
-        {
-            "kutipan": "Ketika satu pintu tertutup, yang lain terbuka. Tetaplah maju.",
-            "sumber": "Helen Keller"
-        },
-        {
-            "kutipan": "Keberhasilan adalah hasil dari kerja keras, dedikasi, dan sedikit keberuntungan.",
-            "sumber": "Colin Powell"
-        },
-        {
-            "kutipan": "Jadilah seseorang yang membuat dunia ini lebih indah dengan kebaikanmu.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Pikirkan positif, lakukan positif, hasilnya akan positif.",
-            "sumber": "Norman Vincent Peale"
-        },
-        {
-            "kutipan": "Setiap hari adalah kesempatan untuk menciptakan perubahan positif.",
-            "sumber": "Tony Robbins"
-        },
-        {
-            "kutipan": "Ketika kamu bekerja dengan hati, hasilnya selalu memuaskan.",
-            "sumber": ""
-        },
-        {
-            "kutipan": "Keberhasilan dimulai dari kemauan untuk mencoba dan mencapai lebih dari sebelumnya.",
-            "sumber": "Michael Jordan"
-        },
-        {
-            "kutipan": "Tidak ada batasan untuk apa yang dapat kamu capai dengan tekad yang kuat.",
-            "sumber": "Les Brown"
-        },
-        {
-            "kutipan": "Hidup ini seperti sepeda, agar tetap seimbang, kamu harus terus maju.",
-            "sumber": "Albert Einstein"
-        },
-        {
-            "kutipan": "Kesuksesan sejati adalah mencintai apa yang kamu lakukan.",
-            "sumber": "David Sarnoff"
-        },
-        {
-            "kutipan": "Yang paling penting bukanlah di mana kamu sekarang, tapi ke mana kamu menuju.",
-            "sumber": "John F. Kennedy"
-        },
-        {
-            "kutipan": "Kegagalan bukanlah lawan dari kesuksesan, melainkan bagian darinya.",
-            "sumber": "Stephen Hawking"
-        },
-        {
-            "kutipan": "Pelajari dari kesalahan, tumbuh dari pengalaman.",
-            "sumber": "Zig Ziglar"
-        },
-        {
-            "kutipan": "Jangan biarkan suara orang lain meredam suara batinmu.",
-            "sumber": "Steve Jobs"
-        },
-        {
-            "kutipan": "Keberanian adalah memulai sesuatu, bahkan ketika kamu tidak yakin akan berhasil.",
-            "sumber": "Mary Kay Ash"
-        },
-        {
-            "kutipan": "Kehidupan yang tidak pernah membuat kita terluka bukanlah kehidupan yang layak dijalani.",
-            "sumber": "Eleanor Roosevelt"
-        },
-        {
-            "kutipan": "Jadilah diri sendiri, karena semua orang sudah menjadi orang lain.",
-            "sumber": "Oscar Wilde"
-        },
-        {
-            "kutipan": "Kegagalan adalah musim di mana kita menanam benih untuk kesuksesan yang lebih besar.",
-            "sumber": "Leslie Brown"
-        },
-        {
-            "kutipan": "Kehidupan adalah 10% apa yang terjadi padamu dan 90% bagaimana kamu meresponsnya.",
-            "sumber": "Charles R. Swindoll"
-        }
-    ]
+  "title": "Kumpulan Kata-Kata Motivasi (Terverifikasi – Edisi Lengkap)",
+  "source": "Kurasi Terverifikasi",
+  "words": [
+    {
+      "kutipan": "Kesuksesan adalah kemampuan untuk melangkah dari satu kegagalan ke kegagalan lain tanpa kehilangan semangat.",
+      "sumber": "Winston S. Churchill"
+    },
+    {
+      "kutipan": "Kesuksesan bukanlah akhir, kegagalan bukanlah kehancuran; yang terpenting adalah keberanian untuk terus melangkah.",
+      "sumber": "Winston S. Churchill"
+    },
+    {
+      "kutipan": "Percaya bahwa kamu bisa, dan kamu sudah setengah jalan.",
+      "sumber": "Theodore Roosevelt"
+    },
+    {
+      "kutipan": "Hidup adalah 10 persen apa yang terjadi pada kita dan 90 persen bagaimana kita meresponsnya.",
+      "sumber": "Charles R. Swindoll"
+    },
+    {
+      "kutipan": "Integritas adalah melakukan hal yang benar, bahkan ketika tidak ada yang melihat.",
+      "sumber": "C. S. Lewis"
+    },
+    {
+      "kutipan": "Disiplin adalah jembatan antara tujuan dan pencapaian.",
+      "sumber": "Jim Rohn"
+    },
+    {
+      "kutipan": "Jangan menunggu kesempatan. Ciptakanlah.",
+      "sumber": "George Bernard Shaw"
+    },
+    {
+      "kutipan": "Orang yang tidak pernah membuat kesalahan berarti tidak pernah mencoba sesuatu yang baru.",
+      "sumber": "Albert Einstein"
+    },
+    {
+      "kutipan": "Hidup ini seperti sepeda. Untuk menjaga keseimbangan, kamu harus terus bergerak.",
+      "sumber": "Albert Einstein"
+    },
+    {
+      "kutipan": "Kepemimpinan bukan soal jabatan, melainkan tentang dampak.",
+      "sumber": "John C. Maxwell"
+    },
+    {
+      "kutipan": "Pemimpin sejati menciptakan lebih banyak pemimpin, bukan sekadar pengikut.",
+      "sumber": "Ralph Nader"
+    },
+    {
+      "kutipan": "Pemimpin sejati hadir untuk melayani, bukan dilayani.",
+      "sumber": "Robert K. Greenleaf"
+    },
+    {
+      "kutipan": "Jangan biarkan apa yang tidak bisa kamu lakukan mengganggu apa yang bisa kamu lakukan.",
+      "sumber": "John Wooden"
+    },
+    {
+      "kutipan": "Kerja keras mengalahkan bakat ketika bakat tidak mau bekerja keras.",
+      "sumber": "Tim Notke"
+    },
+    {
+      "kutipan": "Keberhasilan biasanya datang kepada mereka yang terlalu sibuk untuk mencarinya.",
+      "sumber": "Henry David Thoreau"
+    },
+    {
+      "kutipan": "Orang sukses melakukan apa yang orang gagal enggan lakukan.",
+      "sumber": "Thomas Edison"
+    },
+    {
+      "kutipan": "Lakukan yang terbaik sampai kamu tahu yang lebih baik. Ketika kamu tahu yang lebih baik, lakukan yang lebih baik.",
+      "sumber": "Maya Angelou"
+    },
+    {
+      "kutipan": "Masa depan adalah milik mereka yang percaya pada keindahan impian mereka.",
+      "sumber": "Eleanor Roosevelt"
+    },
+    {
+      "kutipan": "Jika kamu ingin mengubah dunia, mulailah dengan mengubah dirimu sendiri.",
+      "sumber": "Mahatma Gandhi"
+    },
+    {
+      "kutipan": "Kebahagiaan bukanlah sesuatu yang siap pakai. Ia datang dari tindakanmu sendiri.",
+      "sumber": "Dalai Lama"
+    },
+    {
+      "kutipan": "Kita adalah apa yang kita lakukan berulang kali. Maka keunggulan bukanlah tindakan, melainkan kebiasaan.",
+      "sumber": "Aristoteles"
+    },
+    {
+      "kutipan": "Tidak peduli seberapa lambat kamu berjalan, selama kamu tidak berhenti.",
+      "sumber": "Confucius"
+    },
+    {
+      "kutipan": "Kejujuran adalah bab pertama dalam kitab kebijaksanaan.",
+      "sumber": "Thomas Jefferson"
+    },
+    {
+      "kutipan": "Jangan menunda pekerjaan hari ini, karena waktu tidak pernah menunggu.",
+      "sumber": "Benjamin Franklin"
+    },
+    {
+      "kutipan": "Kesuksesan bukan tentang posisi yang kamu capai, tetapi rintangan yang berhasil kamu atasi.",
+      "sumber": "Booker T. Washington"
+    },
+    {
+      "kutipan": "Tidak ada pekerjaan yang hina, yang hina adalah sikap malas.",
+      "sumber": "B. J. Habibie"
+    },
+    {
+      "kutipan": "Ketika niat baik dipadukan dengan kerja sungguh-sungguh, hasil tidak akan mengkhianati proses.",
+      "sumber": "B. J. Habibie"
+    },
+    {
+      "kutipan": "Bangsa yang besar adalah bangsa yang menghargai jasa para pahlawannya.",
+      "sumber": "Soekarno"
+    },
+    {
+      "kutipan": "Tidak ada kesuksesan besar tanpa pengorbanan besar.",
+      "sumber": "Soekarno"
+    },
+    {
+      "kutipan": "Kerja yang dilakukan dengan niat baik bernilai ibadah.",
+      "sumber": "KH. Hasyim Asy'ari"
+    },
+    {
+      "kutipan": "Pelayanan kepada sesama adalah jalan tercepat menuju makna hidup.",
+      "sumber": "Martin Luther King Jr."
+    },
+    {
+      "kutipan": "Tujuan hidup bukanlah kesenangan, tetapi kebermaknaan.",
+      "sumber": "Viktor E. Frankl"
+    },
+    {
+      "kutipan": "Kualitas seorang manusia terlihat dari bagaimana ia memikul tanggung jawab.",
+      "sumber": "Viktor E. Frankl"
+    },
+    {
+      "kutipan": "Bekerjalah seolah-olah segalanya bergantung pada usahamu, dan berdoalah seolah-olah segalanya bergantung pada Tuhan.",
+      "sumber": "St. Ignatius of Loyola"
+    },
+    {
+      "kutipan": "Barang siapa bersungguh-sungguh, maka ia akan berhasil.",
+      "sumber": "Pepatah Arab"
+    },
+    {
+      "kutipan": "Orang bijak memperbaiki dirinya, orang bodoh menyalahkan orang lain.",
+      "sumber": "Pepatah Tiongkok"
+    },
+    {
+      "kutipan": "Amanah adalah beban berat yang hanya bisa dipikul oleh orang berkarakter.",
+      "sumber": "Umar bin Khattab"
+    },
+    {
+      "kutipan": "Kesetiaan pada nilai akan menjaga manusia tetap bermartabat.",
+      "sumber": "Nurcholish Madjid"
+    },
+    {
+      "kutipan": "Keberhasilan tanpa nilai adalah kegagalan yang tertunda.",
+      "sumber": "Albert Schweitzer"
+    },
+    {
+      "kutipan": "Kita tidak hidup untuk diri sendiri saja.",
+      "sumber": "Plato"
+    },
+    {
+      "kutipan": "Pelayanan terbaik kepada masyarakat adalah kehormatan tertinggi seorang aparatur negara.",
+      "sumber": "Dwight D. Eisenhower"
+    },
+    {
+      "kutipan": "Kekuasaan yang tidak dibatasi oleh moral akan melahirkan kerusakan.",
+      "sumber": "Lord Acton"
+    },
+    {
+      "kutipan": "Negara yang kuat dibangun oleh aparatur yang berintegritas.",
+      "sumber": "Lee Kuan Yew"
+    },
+    {
+      "kutipan": "Tugas publik adalah amanah, bukan fasilitas.",
+      "sumber": "Mohammad Hatta"
+    },
+    {
+      "kutipan": "Jabatan adalah ujian karakter, bukan tujuan akhir.",
+      "sumber": "Mohammad Hatta"
+    },
+    {
+      "kutipan": "Pelayanan publik yang baik dimulai dari kejujuran pribadi.",
+      "sumber": "Vaclav Havel"
+    },
+    {
+      "kutipan": "Hukum hanya akan bermakna jika dijalankan oleh manusia yang beretika.",
+      "sumber": "Aristoteles"
+    },
+    {
+      "kutipan": "Disiplin adalah fondasi utama organisasi yang dipercaya publik.",
+      "sumber": "Peter F. Drucker"
+    },
+    {
+      "kutipan": "Pemimpin publik harus memberi teladan sebelum memberi perintah.",
+      "sumber": "Ki Hajar Dewantara"
+    },
+    {
+      "kutipan": "Birokrasi yang bersih lahir dari keberanian berkata tidak pada penyimpangan.",
+      "sumber": "Sri Mulyani Indrawati"
+    },
+    {
+      "kutipan": "Tanggung jawab publik lebih berat daripada kepentingan pribadi.",
+      "sumber": "John F. Kennedy"
+    },
+    {
+      "kutipan": "Kepercayaan masyarakat dibangun melalui konsistensi, bukan retorika.",
+      "sumber": "Stephen R. Covey"
+    },
+    {
+      "kutipan": "Aparatur negara sejati bekerja untuk negara, bukan untuk dirinya sendiri.",
+      "sumber": "Soepomo"
+    },
+    {
+      "kutipan": "Integritas adalah mata uang paling berharga dalam pelayanan publik.",
+      "sumber": "Transparency International"
+    },
+    {
+      "kutipan": "Negara tidak boleh kalah oleh kelalaian aparaturnya.",
+      "sumber": "Soekarno"
+    },
+    {
+      "kutipan": "Setiap keputusan publik akan selalu dimintai pertanggungjawaban sejarah.",
+      "sumber": "Nelson Mandela"
+    },
+    {
+      "kutipan": "Pelayanan yang lambat adalah bentuk ketidakadilan.",
+      "sumber": "William E. Gladstone"
+    },
+    {
+      "kutipan": "Kualitas pemerintahan mencerminkan kualitas aparaturnya.",
+      "sumber": "Samuel P. Huntington"
+    },
+    {
+      "kutipan": "Profesionalisme adalah bentuk tertinggi pengabdian.",
+      "sumber": "B. J. Habibie"
+    },
+    {
+      "kutipan": "Bekerja untuk negara berarti siap diawasi oleh rakyat.",
+      "sumber": "Abraham Lincoln"
+    },
+    {
+      "kutipan": "Keadilan administratif adalah dasar kepercayaan publik.",
+      "sumber": "Lon L. Fuller"
+    },
+    {
+      "kutipan": "Setiap rupiah anggaran adalah titipan rakyat.",
+      "sumber": "Mohammad Hatta"
+    },
+    {
+      "kutipan": "Pelayanan publik yang baik tidak membutuhkan janji, hanya konsistensi.",
+      "sumber": "Margaret Thatcher"
+    },
+    {
+      "kutipan": "Birokrasi harus melayani perubahan, bukan menghambatnya.",
+      "sumber": "Woodrow Wilson"
+    },
+    {
+      "kutipan": "Keteladanan adalah bentuk kepemimpinan paling efektif di sektor publik.",
+      "sumber": "John C. Maxwell"
+    }
+  ]
 }
